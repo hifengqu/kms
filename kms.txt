@@ -1,0 +1,3 @@
+cd /d "%SystemRoot%\system32"
+slmgr /skms 520def3c.nat123.fun:35877
+slmgr /ato
